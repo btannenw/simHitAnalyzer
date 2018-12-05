@@ -1,0 +1,13 @@
+[DONE] email fabio and massimo about patches for D35 in 10_4_0_pre2 --> for getting global coordinates
+
+lindsey will send me thing for integrating part2 in 10_4_0
+
+ETL
+[DONE] - local x (along global Phi), local y (along global R), local z (along global Z)
+
+BTL
+- energy cut on sim-hit --> corners should "go away" as one approaches MIP peak
+[DONE] - BTLDetID .modType (?) --> split Z plot in those three categories
+[temp] - convert all this crap to cm via code snippet that Lindsey sent
+[DONE] - local y (along global Z), local x (along global Phi), local z (along global R)
+- split local X plot by module type and see. peaks at end due to hits shared on edge between bars
