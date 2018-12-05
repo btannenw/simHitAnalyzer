@@ -1,0 +1,4 @@
+float                                 "genParticles"              "t0"              "SIM"     
+vector<reco::GenParticle>             "genParticles"              ""                "SIM"     
+vector<PSimHit>                       "g4SimHits"                 "FastTimerHitsBarrel"   "SIM"     
+vector<PSimHit>                       "g4SimHits"                 "FastTimerHitsEndcap"   "SIM"     

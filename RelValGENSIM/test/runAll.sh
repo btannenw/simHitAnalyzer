@@ -1,0 +1,4 @@
+cmsRun genSimCheck_v0_muon.py
+cmsRun genSimCheck_v0_pion.py
+cmsRun genSimCheck_v0_kaon.py
+cmsRun genSimCheck_v0_proton.py
